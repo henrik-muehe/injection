@@ -19,4 +19,5 @@ LICENSE
 =======
 
 Copyright 2013 by Henrik Mühe <muehe@in.tum.de>
+
 The code is licensed under the GNU Affero General Public License
