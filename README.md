@@ -1,4 +1,4 @@
-SQL Injection Game
+SQL Injection Game ![build stats](https://api.travis-ci.org/henrik-muehe/injection.png)
 ==================
 
 Very simplistic task of injecting a malicious statement such as to retrieve the users table. Used in the tutorials of our database systems course at TUM Germany.
