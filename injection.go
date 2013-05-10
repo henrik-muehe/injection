@@ -33,5 +33,5 @@ func main() {
         out,_ := cmd.CombinedOutput()
         fmt.Fprintf(w,string(out))
 	})
-	log.Fatal(http.ListenAndServe(":8080",nil))
+	log.Fatal(http.ListenAndServe(":1337",nil))
 }
